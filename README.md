@@ -15,3 +15,6 @@ I moved my appointment from months to a day using this.
 2. **Create a .env file and add DISCORD_WEBHOOK_URL="my url"**
 3. **Change location_id to the location you want. This defaults to Pittsburgh**
 4. **Set it up on a cron to run every minute, otherwise you'll need to manually run the script to get an update**
+   
+<img width="1168" alt="image" src="https://github.com/reidcampolong/globalentry-alerts/assets/29555724/3810daaa-2f48-443c-a3a7-612490f2e60a">
+
