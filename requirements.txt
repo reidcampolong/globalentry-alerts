@@ -1,0 +1,5 @@
+# HTTP requests
+requests==2.26.0
+
+# SMTP client
+smtplib==3.4.2
